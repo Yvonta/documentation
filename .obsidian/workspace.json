@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Conceptual Vision & System Architecture -  Project Persona Cloning"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "73bf3ee098b0b1a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conceptual Vision & System Architecture -  Project Persona Cloning"
             }
           }
         ]
@@ -207,6 +211,8 @@
   "active": "e6f758261ea85c56",
   "lastOpenFiles": [
     "README.md",
-    "Welcome.md"
+    "Welcome.md",
+    "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
+    "Design"
   ]
 }
