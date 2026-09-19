@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
+                "file": "Design/Brains Design Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceptual Vision & System Architecture -  Project Persona Cloning"
+              "title": "Brains Design Notes"
             }
           }
         ]
@@ -210,9 +210,10 @@
   },
   "active": "e6f758261ea85c56",
   "lastOpenFiles": [
+    "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
+    "Design/Brains Design Notes.md",
     "README.md",
     "Welcome.md",
-    "Design/Conceptual Vision & System Architecture -  Project Persona Cloning.md",
     "Design"
   ]
 }
